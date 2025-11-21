@@ -1,5 +1,7 @@
-.     |\__/,|   (`\
-.  _.|o o  |_   ) )
-.-(((---(((--------
+``     |\__/,|   (`\``
+
+``  _.|o o  |_   ) )``
+
+``-(((---(((--------``
 
 Pliki potrzebne do lekcji informatyki w SP Sonina
